@@ -9,9 +9,9 @@ pip instal -r requirements.txt
 
 Para Rodar o projeto digite o comando abaixo no terminal (dentro da pasta doesangue)
 ```
-python manage.py 0.0.0.0:8000
+python manage.py runserver 0.0.0.0:8000
 ```
 
 Para acessar no browser use o link:
-[https://localhost:8000](https://localhost:8000)
+[http://localhost:8000](http://localhost:8000)
 
