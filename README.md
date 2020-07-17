@@ -7,7 +7,7 @@ Para instalar as dependencias use o comando
 pip instal -r requirements.txt
 ```
 
-Para Rodar o projeto digite o comando abaixo no terminal 
+Para Rodar o projeto digite o comando abaixo no terminal (dentro da pasta doesangue)
 ```
 python manage.py 0.0.0.0:8000
 ```
