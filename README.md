@@ -4,7 +4,7 @@
 
 Para instalar as dependencias use o comando 
 ```
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Para Rodar o projeto digite o comando abaixo no terminal (dentro da pasta doesangue)
